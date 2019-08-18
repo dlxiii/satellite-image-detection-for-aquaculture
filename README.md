@@ -12,7 +12,9 @@
 
 *注：若安装 Python3 程序，需将 python 写到环境变量。*
 
+1. 下载并安装 Anaconda，链接[]。
 
+2. 
 
 * 下载 TensorFLow 并编译 protos
 
