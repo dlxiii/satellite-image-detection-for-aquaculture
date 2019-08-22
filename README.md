@@ -12,15 +12,30 @@
 
 *注：若安装 Python3 程序，需将 python 写到环境变量。*
 
-* 下载 TensorFLow 并编译 protos
+* 下载 TensorFLow
 
 参照：https://www.tensorflow.org/install/pip
 
 参照：https://github.com/pythonlessons/TensorFlow-object-detection-tutorial
 
+参照：https://www.youtube.com/watch?v=HX2yXajg8Ts
+
 Numpy 不兼容错误修正参考：https://blog.csdn.net/weixin_42081389/article/details/98185411
 
-* 下载深度学习模型
+* 下载深度学习模型并安装protos
+
+https://github.com/tensorflow/models
+
+https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0
+
+在 research 目录下设置 Python 环境变量：
+~~~bash
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+~~~
+
+安装 homebrew
+
+参照：https://medium.com/@viviennediegoencarnacion/how-to-setup-tensorflow-object-detection-on-mac-a0b72fbf470a
 
 * 验证环境配置
 
