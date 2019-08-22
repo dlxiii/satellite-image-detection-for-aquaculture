@@ -1,0 +1,33 @@
+item {
+  id: 1
+  name: 'square_solid'
+}
+
+item {
+  id: 2
+  name: 'square_cover'
+}
+item {
+  id: 3
+  name: 'square_bigger'
+}
+
+item {
+  id: 4
+  name: 'square_divide'
+}
+
+item {
+  id: 5
+  name: 'square_locked'
+}
+
+item {
+  id: 6
+  name: 'circle'
+}
+
+item {
+  id: 7
+  name: 'octagon'
+}
