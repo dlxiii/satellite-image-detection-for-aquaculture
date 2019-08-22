@@ -26,7 +26,7 @@ Numpy 不兼容错误修正参考：https://blog.csdn.net/weixin_42081389/articl
 
 https://github.com/tensorflow/models
 
-https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0
+https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0 (mac 不需要)
 
 在 research 目录下设置 Python 环境变量：
 ~~~bash
@@ -37,7 +37,17 @@ export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
 
 参照：https://medium.com/@viviennediegoencarnacion/how-to-setup-tensorflow-object-detection-on-mac-a0b72fbf470a
 
+~~~bash
+protoc object_detection/protos/*.proto --python_out=.
+~~~
+
 * 验证环境配置
+
+参照：https://pylessons.com/Tensorflow-object-detection-installation/
+
+object_detection_tutorial.py No output images，参照：
+
+https://github.com/tensorflow/models/issues/6684
 
 ### 标记图像
 
