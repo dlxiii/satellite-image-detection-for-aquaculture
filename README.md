@@ -18,6 +18,8 @@
 
 参照：https://github.com/pythonlessons/TensorFlow-object-detection-tutorial
 
+Numpy 不兼容错误修正参考：https://blog.csdn.net/weixin_42081389/article/details/98185411
+
 * 下载深度学习模型
 
 * 验证环境配置
