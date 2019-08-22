@@ -14,6 +14,10 @@
 
 * 下载 TensorFLow 并编译 protos
 
+参照：https://www.tensorflow.org/install/pip
+
+参照：https://github.com/pythonlessons/TensorFlow-object-detection-tutorial
+
 * 下载深度学习模型
 
 * 验证环境配置
