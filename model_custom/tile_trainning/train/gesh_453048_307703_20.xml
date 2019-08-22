@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fillter_title</folder>
+	<filename>gesh_453048_307703_20.jpg</filename>
+	<path>C:\Users\Yulong WANG\OneDrive - The University of Tokyo\satellite image\fillter_title\gesh_453048_307703_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>square_solid</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>60</ymin>
+			<xmax>256</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>
