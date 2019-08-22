@@ -12,10 +12,6 @@
 
 *注：若安装 Python3 程序，需将 python 写到环境变量。*
 
-1. 下载并安装 Anaconda，链接[]。
-
-2. 
-
 * 下载 TensorFLow 并编译 protos
 
 * 下载深度学习模型
@@ -25,6 +21,8 @@
 ### 标记图像
 
 * 下载并安装图像标记软件
+
+ 参照：https://github.com/tzutalin/labelImg
 
 * 标记图像
 
