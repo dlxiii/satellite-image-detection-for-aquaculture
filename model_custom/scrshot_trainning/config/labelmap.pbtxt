@@ -1,0 +1,33 @@
+item {
+  id: 1
+  name: 'circle'
+}
+
+item {
+  id: 2
+  name: 'oval'
+}
+item {
+  id: 3
+  name: 'square'
+}
+
+item {
+  id: 4
+  name: 'octagon'
+}
+
+item {
+  id: 5
+  name: 'ship'
+}
+
+item {
+  id: 6
+  name: 'platform'
+}
+
+item {
+  id: 7
+  name: 'house'
+}
