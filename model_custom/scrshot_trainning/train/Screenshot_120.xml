@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot_120.png</filename>
+	<path>C:\Users\Yulong WANG\Documents\GitHub\satellite-image-analysis\data\train_test\train\Screenshot_120.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>551</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>292</ymin>
+			<xmax>451</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
